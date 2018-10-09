@@ -1,4 +1,4 @@
 CryptoExchange
 ==============
 
-Open source cryptocurrency exchange software.
+Fork of CryptoExchange's open source DEX configured for Lonero
