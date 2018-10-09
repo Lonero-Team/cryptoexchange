@@ -1,4 +1,4 @@
 CryptoExchange
 ==============
 
-Fork of CryptoExchange's open source DEX configured for Lonero
+Fork of CryptoExchange's [open source](https://github.com/thekiur/cryptoexchange) DEX configured for Lonero
